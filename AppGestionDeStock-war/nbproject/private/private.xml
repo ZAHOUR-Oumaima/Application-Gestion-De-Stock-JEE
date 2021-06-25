@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/WEB-INF/ModificationStock.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>46</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/tableMarques.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/NouvelleMarchandise.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/ModificationStock.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/NavBar.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/SuppressionMarque.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/tableStock.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/ModificationProduit.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/NouvelleMarchandise.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/ListingStock.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/SuppressionProduit.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/SideBar.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/ModificationProduit.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/InvoquerCreationMarque.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/CreationProduit.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/ListingProduits.java</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/ModificationStock.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/CreationProduit.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/tableProduit.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/web/WEB-INF/CreationMarque.jsp</file>
+            <file>file:/C:/Users/hp/Desktop/Imane/2GI/S4/AtelierJEE/AppGestionDeStock/AppGestionDeStock-war/src/java/Servlets/ListingMarque.java</file>
+        </group>
+    </open-files>
+</project-private>
